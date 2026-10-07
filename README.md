@@ -1,7 +1,8 @@
 # 🏦 Bank Customer Churn Analysis — SQL Server & Power BI
 
 ## 📌 Project Overview
-**End-to-end churn analysis of 10,000 bank customers** — from SQL Server validation and segmentation to an interactive Power BI dashboard, uncovering exactly which customer segments are walking out the door and why.
+**This project analyzes 10,000 bank customers** to find which customers are leaving and why, so a limited retention budget can be spent where it matters most. It uncovers that **2,038 customers (20.38%) left, almost all of them (2,034) after filing a complaint**, and that **Germany (32.4% churn), customers aged 50–60 (56.0%) and customers with 3 or more products** are the highest-risk groups. It provides a targeted retention plan: bringing Germany's churn down to the level of France and Spain alone could keep **about 400 customers and about 48.6M in account balances**.
+
 ## The Analysis Covers:
 - [Business Problem](#business-problem)
 - [Dataset Overview](#dataset-overview)
